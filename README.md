@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development and UI/UX design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via my web-page https://vitalii-cherenkov.com
 
 <!---
 WillardATL/WillardATL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
